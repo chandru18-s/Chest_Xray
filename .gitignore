@@ -1,0 +1,3 @@
+# Ignore Python script & requirements locally
+chestxray.py
+Requirements.txt
